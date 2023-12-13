@@ -1,0 +1,29 @@
+h1 {
+    color: rgba(0, 179, 255, 0.717);
+}
+h3 {
+    color: rgba(137, 43, 226, 0.377);
+}
+h2 {
+    color: rgba(209, 50, 50, 0.636);
+}
+
+.art1 {
+    width: 200px;
+    height: auto;
+    float: left;
+    padding: 20px;
+}
+
+.art2 {
+    width: 200px;
+    height: auto;
+    float: left;
+    padding: 20px;
+}
+
+.text {
+    text-align: justify;
+    font-size: 24pt;
+    
+}

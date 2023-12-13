@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Kenia");
+@import url("https://fonts.googleapis.com/css2?family=Agbalumo");
+@import url("https://fonts.googleapis.com/css2?family=Teko");
+@import url("https://fonts.googleapis.com/css2?family=Caveat");
+.text1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.text2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.text3 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text4 {
+    font-family: Agbalumo;
+    background-color: rgba(226, 43, 202, 0.692)6, 43;
+    color: rgba(240, 51, 186, 0.466);
+}
+.text5 {
+    font-family: Kenia;
+    color: rgba(171, 210, 30, 0.507)83, 210;
+}
+.text6 {
+    font-family: Teko;
+}
+.text7 {
+font-family: Caveat;
+}

@@ -1,0 +1,51 @@
+.tab {
+    border: 3px solid rgba(169, 33, 33, 0.683); 
+    border-collapse: collapse;
+    width: 300px;
+    height: auto;
+}
+th, td{
+border: 2px solid rgba(235, 5, 17, 0.927); 
+}
+.col00 {
+    background-color: rgba(153, 14, 39, 0.793);
+}
+.col0 {
+background-color: rgb(255, 255, 255);
+}
+.col1 {
+    background-color:  rgba(237, 179, 125, 0.769);
+}
+.col2 {
+    background-color: rgba(234, 28, 28, 0.635);
+}
+.col {
+    background-color: rgba(255, 105, 180, 0.277);
+}
+.col3 {
+    background-color: rgba(206, 104, 238, 0.217);
+}
+th {
+    background-color: rgba(241, 25, 223, 0.356);
+}
+.nlo {
+    background-color: rgba(200, 89, 255, 0.147);
+}
+.nlo1 {
+    background-color: rgba(248, 236, 170, 0.401);
+}
+.nlo2 {
+    background-color: rgba(248, 109, 250, 0.409);
+}
+.nlo0 {
+    background-color: rgba(158, 80, 231, 0.574);
+}
+.nlo3 {
+    background-color: rgba(215, 27, 27, 0.339);
+}
+.nlo4{
+background-color: rgba(229, 21, 101, 0.364);
+}
+.nlo5{
+background-color: rgba(235, 75, 75, 0.68);
+}

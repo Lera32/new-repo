@@ -1,0 +1,13 @@
+h1, h2, h3 {
+color: rgb(226, 43, 144);
+}
+
+i, .block_color {
+    color: brown;
+    background-color: bisque;
+}
+ 
+header {
+color: rgb(180, 38, 38);
+}
+

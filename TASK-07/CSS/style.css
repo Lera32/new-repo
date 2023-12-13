@@ -1,0 +1,12 @@
+header {
+font-size: 50pt;
+color: rgba(34, 169, 241, 0.761);
+text-align: center;
+}
+.code {
+    float: right;
+    width: 700px;
+}
+section {
+    font-size: 15pt;
+}

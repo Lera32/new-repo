@@ -1,0 +1,18 @@
+.markers1 {
+	margin: 0 0 20px 24px;
+	padding: 0;
+	list-style-type: "⚡ ";
+}
+.markers1 li {
+	margin: 7px 0;
+	font-size: 14px;
+}
+.markers2 {
+	margin: 0 0 20px 24px;
+	padding: 0;
+	list-style-type: " ☠";
+}
+.markers2 li {
+	margin: 7px 0;
+	font-size: 14px;
+}
